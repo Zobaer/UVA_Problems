@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
+///Author: Md Zobaer Islam//
+
 int main(void) {
 	unsigned long long inp, outp;
 	
