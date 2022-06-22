@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include<string.h>
 
+///Author: Md Zobaer Islam//
+
 int main()
 {
     int T;
