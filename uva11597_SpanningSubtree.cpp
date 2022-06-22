@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+///Author: Md Zobaer Islam//
+
 int main(void) {
 	int inp, c = 1;
 	while (scanf("%d", &inp)&&!inp)
